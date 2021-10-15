@@ -11,9 +11,9 @@
 
 
 #### :art: Also a digital artist :art: ####
-					* checkmeowt @ <https://www.instagram.com/checkmeeeowt>
-						* currently working as a digital artist @ ownme.io
-							* message me for collabs!
+						* checkmeowt @ https://www.instagram.com/checkmeeeowt
+							* currently working as a digital artist @ ownme.io
+								* message me for collabs!
 							
 							
 

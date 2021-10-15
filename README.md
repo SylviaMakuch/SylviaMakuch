@@ -11,9 +11,9 @@
 
 
 #### :dizzy: Also a digital artist :dizzy: ####
-* checkmeowt @ https://www.instagram.com/checkmeeeowt/
-	* currently working as a digital artist @ ownme.io
-		* message me for collabs!
+					* checkmeowt @ https://www.instagram.com/checkmeeeowt/
+						* currently working as a digital artist @ ownme.io
+							* message me for collabs!
 
 :round_pushpin:  Vancouver, Canada -Based 
  </p>

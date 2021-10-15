@@ -2,7 +2,7 @@
 # _Welcome_ :wave: #
 ## I'm Sylvia :alien: ##
 
-###     I used to be a ~~Respiratory Therapist~~, now I am learning to become a Software Engineer ###
+###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Software Engineer :computer: ###
 									Best decision of my life!
 
  
@@ -10,11 +10,15 @@
 							        Currently learning JS & React
 
 
-#### :dizzy: Also a digital artist :dizzy: ####
-					* checkmeowt @ https://www.instagram.com/checkmeeeowt/
+#### :art: Also a digital artist :art: ####
+					* checkmeowt @ <https://www.instagram.com/checkmeeeowt>
 						* currently working as a digital artist @ ownme.io
 							* message me for collabs!
+							
+							
 
 :round_pushpin:  Vancouver, Canada -Based 
- </p>
-</body>
+
+<https://www.instagram.com/checkmeeeowt>
+
+<https://ownme.io>

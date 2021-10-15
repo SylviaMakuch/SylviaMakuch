@@ -1,4 +1,4 @@
-# _Welcome_ :wave: # ## I'm Sylvia :alien: ##
+# _Welcome_ :wave: I'm Sylvia :alien: ##
 
 ###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Software Engineer :computer: ###
 									Best decision of my life!

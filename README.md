@@ -1,6 +1,6 @@
 # _Welcome_ :wave: I'm Sylvia :alien: ##
 
-###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Software Engineer :computer: ###
+###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Front End Software Engineer :computer: ###
 									Best decision of my life!
 
  

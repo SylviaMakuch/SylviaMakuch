@@ -10,6 +10,4 @@ Currently working as a Junior Front End + Digital Artist @ ownme.io
 
 https://twitter.com/SylviaMakuch
 
-<https://www.instagram.com/checkmeeeowt>
-
-<https://ownme.io>
+https://linktr.ee/CheckMeeeowt

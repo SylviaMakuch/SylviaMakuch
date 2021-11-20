@@ -1,7 +1,7 @@
 # _Welcome_ :wave: I'm Sylvia :alien: ##
 
 ###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Front End Software Engineer :computer: ###
-									Best decision of my life!
+								Best decision of my life!
 
  
 ####  :file_folder:  Here to collaborate on different projects. :file_folder: ####

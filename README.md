@@ -1,6 +1,6 @@
 # _Welcome_ :wave: I'm Sylvia :alien: ##
 
-###    Ex 🩺~~Respiratory Therapist~
+###     🩺Ex - ~~Respiratory Therapist~~
 Currently working as a Junior Front End + Digital Artist @ ownme.io
 						Currently learning React 
 

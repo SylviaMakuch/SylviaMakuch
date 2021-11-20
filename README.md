@@ -1,16 +1,13 @@
 # _Welcome_ :wave: I'm Sylvia :alien: ##
 
-###     I used to be a 🩺~~Respiratory Therapist~~🩺, now I am learning to become a Front End Software Engineer :computer: ###
-								Best decision of my life!
+###    Ex 🩺~~Respiratory Therapist~~🩺, apiring Front End Software Engineer :computer: ###
+								Currently learning React 
 
  
-####  :file_folder:  Here to collaborate on different projects. :file_folder: ####
-							        Currently learning React 
-
 
 #### :art: Also a digital artist :art: ####
 						* checkmeowt @ https://www.instagram.com/checkmeeeowt
-							* currently working as a digital artist @ ownme.io
+							* currently working as a Junior Front End + Digital Artist @ ownme.io
 								* message me for collabs!
 							
 							

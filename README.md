@@ -5,7 +5,7 @@
 
  
 ####  :file_folder:  Here to collaborate on different projects. :file_folder: ####
-							        Currently learning JS & React
+							        Currently learning React 
 
 
 #### :art: Also a digital artist :art: ####

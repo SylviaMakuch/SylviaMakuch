@@ -13,7 +13,9 @@
 https://twitter.com/SylviaMakuch
 
 https://linktr.ee/CheckMeeeowt
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylviamakuch&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylviamakuch&layout=compact&theme=synthwave)](https://github.com/sylviamakuch/github-readme-stats)

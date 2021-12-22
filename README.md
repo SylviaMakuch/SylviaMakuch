@@ -2,7 +2,7 @@
 
 ###     🩺Ex - ~~Respiratory Therapist~~
 Currently working as a Junior Front End + Digital Artist @ ownme.io
-						Currently learning React 
+Learning React / TypeScript
 
 				
 

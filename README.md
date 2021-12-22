@@ -16,4 +16,5 @@ https://linktr.ee/CheckMeeeowt
 
 
 ![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylviamakuch&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylviamakuch&layout=compact)](https://github.com/sylviamakuch/github-readme-stats)
 

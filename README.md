@@ -7,9 +7,11 @@
 				
 
 :round_pushpin:  Vancouver, Canada -Based 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylviamakuch)](https://github.com/sylviamakuch/github-readme-stats)
+
 
 
 https://twitter.com/SylviaMakuch
 
 https://linktr.ee/CheckMeeeowt
+
+[![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylviamakuch)](https://github.com/sylviamakuch/github-readme-stats)

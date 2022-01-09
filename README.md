@@ -4,10 +4,16 @@
     I'm Sylvia!
 </h1>
 <h3>
-🩺     
+
+ 👩🏽‍⚕️  🩺   🫁            .....⏭ .....       ⚛️  👩🏽‍💻  🌎
 </h3>
+<p>
  I' a passionate self-taught front-end web developer
+</p>
+    <p>
 ⚡ Currently working as a Junior Front End + Digital Artist @ ownme.io ⚡
+    </p>
+    <p></p>
 <div>
   
 :round_pushpin:  Vancouver, Canada -Based 

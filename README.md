@@ -12,3 +12,6 @@ https://linktr.ee/CheckMeeeowt
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>

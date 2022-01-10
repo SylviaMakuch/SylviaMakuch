@@ -8,7 +8,7 @@
  👩🏽‍⚕️  🩺   🫁           ➝➝➝      👩🏽‍💻  ⚛️ 🌎
 </h3>
 <p>
- I' a passionate self-taught front-end web developer
+ I' a passionate and creatvie self-taught front-end web developer
 </p>
     <p>
 ⚡ Currently working as a Junior Front End + Digital Artist @ ownme.io ⚡

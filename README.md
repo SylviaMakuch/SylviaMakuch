@@ -27,8 +27,5 @@
  <img align="center"  Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
                                                                                                                                    
-<a href="https://www.linkedin.com/in/sylvia-makuch-6baa4a66//">
-  <img align="center" LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 

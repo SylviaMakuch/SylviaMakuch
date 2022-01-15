@@ -13,9 +13,5 @@
     <p>
 ⚡ Currently working as a Junior Front End + Digital Artist @ ownme.io ⚡
     </p>
-
   
 :round_pushpin:  Vancouver, Canada -Based 
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)

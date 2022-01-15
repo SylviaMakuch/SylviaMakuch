@@ -8,24 +8,14 @@
  👩🏽‍⚕️  🩺   🫁           ➝➝➝      👩🏽‍💻  ⚛️ 🌎
 </h3>
 <p>
- I' a passionate and creatvie self-taught front-end web developer
+ I'm a passionate and creative self-taught front-end web developer
 </p>
     <p>
 ⚡ Currently working as a Junior Front End + Digital Artist @ ownme.io ⚡
     </p>
-    <p></p>
-<div>
+
   
 :round_pushpin:  Vancouver, Canada -Based 
-<p align="center"><img src="https://media2.giphy.com/media/c62Pxn58LSVTcEmXx3/giphy.gif?cid=ecf05e47o14vwknkctptrui0mm20ch2yft5ub4jskm1x0641&rid=giphy.gif&ct=g" /></p>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-  ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-  
-<a href="https://twitter.com/SylviaMakowiec">
- <img align="center"  Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-                                                                                                                                   
-
-

@@ -14,4 +14,4 @@
 ⚡ Currently working as a Junior Front-End Engineer + Digital Artist @ ownme.io ⚡
     </p>
   
-:round_pushpin:  Vancouver, Canada -Based 
+:round_pushpin:  Canada -Based 

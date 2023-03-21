@@ -9,4 +9,4 @@
 Frontend Web Developer, specializing in React 
 </p>
   
-:round_pushpin:  Canada -Based 
+:round_pushpin: Based in Canada

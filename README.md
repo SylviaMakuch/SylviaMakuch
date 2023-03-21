@@ -6,7 +6,7 @@
  👩🏽‍⚕️  🩺   🫁           ➝➝➝      👩🏽‍💻  ⚛️ 🌎
 </h3> -->
 <p>
-Frontend Web Developer, speclizing in React 
+Frontend Web Developer, specializing in React 
 </p>
   
 :round_pushpin:  Canada -Based 
